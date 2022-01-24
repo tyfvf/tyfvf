@@ -4,7 +4,7 @@
 - 👀 Eu tenho interesse principalmente em programação, mas gosto de tecnologia em geral.
 - 🌱 Estou atualmente aprendendo de tudo! Estou em um curso técnico de informática atualmente, é o primeiro curso que eu faço então ainda estou aprendendo sobre praticamente tudo.
 - 💞️ Estou aqui para colaborar com... bem, não sei, provavelmente eu não tenha conhecimento o suficiente para ajudar alguém com alguma coisa, a menos que seja um "hello world" 😅
-- 📫 Como me contatar, bem, você precisar de alguma coisa, ou quiser conversar comigo, me envie um email para tyfvf2@gmail.com, eu sempre estou olhando.
+- 📫 Como me contatar, bem, você precisar de alguma coisa, ou quiser conversar comigo, me envie um email para lucas.brizola.fontoura@gmail.com, eu sempre estou olhando.
 - ⚙️ Trabalho em progresso
 
 
