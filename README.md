@@ -1,18 +1,27 @@
-🇧🇷
+# Lucas Brizola (Tyfvf)
 
-- 👋 Olá, Eu sou @tyfvf.
-- 👀 Eu tenho interesse principalmente em programação, mas gosto de tecnologia em geral.
-- 🌱 Estou atualmente aprendendo de tudo! Estou em um curso técnico de informática atualmente, é o primeiro curso que eu faço então ainda estou aprendendo sobre praticamente tudo.
-- 💞️ Estou aqui para colaborar com... bem, não sei, provavelmente eu não tenha conhecimento o suficiente para ajudar alguém com alguma coisa, a menos que seja um "hello world" 😅
-- 📫 Como me contatar, bem, você precisar de alguma coisa, ou quiser conversar comigo, me envie um email para lucas.brizola.fontoura@gmail.com, eu sempre estou olhando.
-- ⚙️ Trabalho em progresso
+<a href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+<a href='https://www.linkedin.com/in/lucasbrizola/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 
+<div>
+  <img height="200" src='https://github-readme-stats.vercel.app/api?username=tyfvf&show_icons=true&count_private=true&theme=midnight-purple'>
+  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=midnight-purple'>
+</div>
 
-🇺🇸
+<div>
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
-- 👋 Hi, I’m @tyfvf.
-- 👀 I’m interested in mostly programming, but technology in general.
-- 🌱 I’m currently learning everything!, i am pursuing a IT certificate in Brazil, place where i live, it's my first course so i'm still learning about pretty much everything.
-- 💞️ I’m looking to collaborate on... i don't know, probably i don't have enough knowledge to help with anything, unless it's a simple hello world 😅
-- 📫 How to reach me, well with you need something, or talk to me, you can send me a email to tyfvf2@gmail.com, i always check.
-- ⚙️ Working in progress
+##
+
+<img width='100%' src='https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/34/1471962283-giphy-5.gif'>
+
+##
+
+![Snake animation](https://github.com/tyfvf/tyfvf/blob/output/github-contribution-grid-snake.svg)
