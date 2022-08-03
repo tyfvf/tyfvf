@@ -20,7 +20,7 @@
 
 ##
 
-<img width='100%' src='https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/34/1471962283-giphy-5.gif'>
+<img width='100%' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
 
 ##
 
