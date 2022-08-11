@@ -1,4 +1,4 @@
-# Lucas Brizola (Tyfvf)
+# Lucas Brizola (Tyfvf) <img align='center' width='10%' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
 
 <a href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 <a href='https://www.linkedin.com/in/lucasbrizola/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
@@ -20,10 +20,7 @@
 
 ##
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" />
-  <img align='center' width='34%' height='197' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
-</div>
+<img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" />
 
 ##
 
