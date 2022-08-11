@@ -22,7 +22,7 @@
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" />
-  <img align='center' height='200' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
+  <img align='center' width='30%' height='200' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
 </div>
 
 ##
