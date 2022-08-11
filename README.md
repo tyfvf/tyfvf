@@ -20,10 +20,13 @@
 
 ##
 
-<img width='100%' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" />
+  <img align='center' height='200' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
+</div>
 
 ##
 
-<p><img width='100%' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" /></p>
+
 
 ![Snake animation](https://github.com/tyfvf/tyfvf/blob/output/github-contribution-grid-snake.svg)
