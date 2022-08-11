@@ -8,8 +8,6 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=midnight-purple'>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" /></p>
-
 <div>
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,3 +25,5 @@
 ##
 
 ![Snake animation](https://github.com/tyfvf/tyfvf/blob/output/github-contribution-grid-snake.svg)
+
+<p><img width='100%' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" /></p>
