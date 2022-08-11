@@ -24,6 +24,6 @@
 
 ##
 
-![Snake animation](https://github.com/tyfvf/tyfvf/blob/output/github-contribution-grid-snake.svg)
-
 <p><img width='100%' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=dark" alt="tyfvf" /></p>
+
+![Snake animation](https://github.com/tyfvf/tyfvf/blob/output/github-contribution-grid-snake.svg)
