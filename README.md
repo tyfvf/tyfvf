@@ -9,16 +9,11 @@
 
 ##
 
-### My stats:
-
 <div>
   <img width='420' src='https://github-readme-stats.vercel.app/api?username=tyfvf&show_icons=true&count_private=true&theme=midnight-purple'> 
   <img height='166' src="https://github-readme-streak-stats.herokuapp.com/?user=tyfvf&theme=midnight-purple" alt="tyfvf" />
 </div>
 
-### Languages i use:
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=midnight-purple'>
 <div>
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,6 +22,7 @@
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
 ##
