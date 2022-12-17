@@ -1,8 +1,8 @@
 # Lucas Brizola (Tyfvf) <img align='center' width='10%' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
 
-ᴘᴛ Olá, meu nome é Lucas Brizola, eu sou estudante de engenharia de software e atualmente me dedico a estudar python. Se quiser falar comigo sinta-se livre para me enviar um e-mail ou me adicionar no linkedin ↓
+ᴘᴛ Olá, meu nome é Lucas Brizola, eu sou estudante de engenharia de software e atualmente me dedico a estudar Python. Se quiser falar comigo sinta-se livre para me enviar um e-mail ou me adicionar no linkedin ↓
 
-ᴇɴɢ Hi, my name is Lucas Brizola, i'm graduating software engineering and currently i dedicate myself in studying python. If you want talk to me feel free to send me an e-mail or add me at linkedin ↓
+ᴇɴɢ Hi, my name is Lucas Brizola, i'm graduating software engineering and currently i dedicate myself in studying Python. If you want talk to me feel free to send me an e-mail or add me at linkedin ↓
 
 <a href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 <a href='https://www.linkedin.com/in/lucasbrizola/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
