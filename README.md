@@ -1,4 +1,4 @@
-# Lucas Brizola (Tyfvf) <img align='center' width='10%' src='https://c.tenor.com/FBeNVFjn-EkAAAAC/ben-redblock-loading.gif'>
+# Lucas Brizola (Tyfvf) 🌱
 
 ᴘᴛ Olá, meu nome é Lucas Brizola, eu sou estudante de engenharia de software e atualmente me dedico a estudar Python. Se quiser falar comigo sinta-se livre para me enviar um e-mail ou me adicionar no Linkedin ↓
 
