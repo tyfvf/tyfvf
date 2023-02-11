@@ -26,7 +26,7 @@
 
 <!--STATS-->
 <p align="center">
-<img src="https://i.imgur.com/BkuJvtX.gif"></p>
+<img src="https://i.imgur.com/nZ3NJEm.gif"></p>
 
 <!--GENERAL STATS AND STREAK-->
 <div align="center">
