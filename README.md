@@ -45,9 +45,9 @@
 <!--MOST USED LANGS AND REPO-->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=midnight-purple">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=default">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=midnight-purple&hide=jupyter%20notebook">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=default&hide=jupyter%20notebook">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&hide=jupyter%20notebook">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=midnight-purple">
@@ -96,6 +96,7 @@
   <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height='60'  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img height='60' src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
   <img height='60' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   <img height='60' src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
 </div><br>
