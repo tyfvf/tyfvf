@@ -1,6 +1,8 @@
 <!--INTRODUCTION - START-->
-<div align="center">
-  <h1>Lucas Brizola (Tyfvf) 🌱</h1>
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;">Lucas Brizola (Tyfvf) 🌱</h1></summary>
+  </ul>
 </div>
 
 <!--GREETINGS-->
@@ -14,10 +16,9 @@
   <p>(ᴇɴɢ) Hi, my name is Lucas Brizola, i'm graduating Software Engineering and currently i dedicate myself in studying Python. If you want talk to me feel free to    send me an e-mail or add me at Linkedin.</p>
   
   <!--I LOVE OPEN SOURCE-->
-  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+  <img src="https://i.imgur.com/QutXyDi.png" height="120" width="600">
 </div>
 <!--INTRODUCTION - END-->
-
 <!--LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -25,7 +26,7 @@
 
 <!--STATS-->
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif"></p>
+<img src="https://i.imgur.com/BkuJvtX.gif"></p>
 
 <!--GENERAL STATS AND STREAK-->
 <div align="center">
@@ -74,7 +75,7 @@
 <!--SNAKE TEXT-->
 <div align="center">
   <br>
-  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  <img src="https://i.imgur.com/Sye4ESD.gif" width="500">
 </div>
 
 <!--SNAKE-->
@@ -86,7 +87,7 @@
 
 <!--INTERESTS TEXT-->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<img src="https://i.imgur.com/f7BoDoW.gif">
 
 <!--INTERESTS SVG-->
 <div align="center">
