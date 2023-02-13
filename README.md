@@ -107,6 +107,5 @@
   <a target="_blank" href='https://www.linkedin.com/in/lucasbrizola/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
 
-
-
-
+<!--FOOTER-->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
