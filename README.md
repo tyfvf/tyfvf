@@ -15,8 +15,13 @@
   
   <p>(ᴇɴɢ) Hi, my name is Lucas Brizola, i'm graduating Software Engineering and currently i dedicate myself in studying Python. If you want talk to me feel free to    send me an e-mail or add me at Linkedin.</p>
   
-  <!--I LOVE OPEN SOURCE-->
-  <img src="https://i.imgur.com/QutXyDi.png" height="120" width="600">
+  <!--CONTACT LINKS-->
+  <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+  </a>
+  <a target="_blank" href='https://www.linkedin.com/in/lucasbrizola/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
 </div>
 <!--INTRODUCTION - END-->
 <!--LINE-->
@@ -101,8 +106,7 @@
   <img height='60' src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
 </div><br>
 
-<!--CONTACT LINKS-->
+<!--I LOVE OPEN SOURCE-->
 <div align="center">
-  <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a target="_blank" href='https://www.linkedin.com/in/lucasbrizola/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <img src="https://i.imgur.com/QutXyDi.png" height="120" width="600">
 </div>
