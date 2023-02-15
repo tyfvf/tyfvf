@@ -54,7 +54,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=default&hide=jupyter%20notebook">
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&hide=jupyter%20notebook">
   </picture>
-  <a href="https://tyfvf.github.io/Pig-Clicker/" target="_blank">
+  <a href="https://tyfvf.github.io/Pig-Clicker/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=midnight-purple">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=default">
