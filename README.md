@@ -54,11 +54,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&theme=default&hide=jupyter%20notebook">
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyfvf&layout=compact&hide=jupyter%20notebook">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=midnight-purple">
-    <a href="https://tyfvf.github.io/Pig-Clicker/"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=default"></a>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker">
-  </picture>
+  <a href="https://tyfvf.github.io/Pig-Clicker/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=midnight-purple">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker&theme=default">
+      <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=tyfvf&repo=Pig-Clicker">
+    </picture>
+  </a>
 </div>
 
 <!--TROPHY GIF-->
