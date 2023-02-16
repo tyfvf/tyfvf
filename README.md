@@ -13,7 +13,7 @@
 <div align="center">
   <p>(ᴘᴛ) Olá, meu nome é Lucas Brizola, eu sou estudante de Engenharia de Software e atualmente me dedico a estudar Python. Se quiser falar comigo sinta-se livre para me enviar um e-mail ou me adicionar no Linkedin.</p>
   
-  <p>(ᴇɴɢ) Hi, my name is Lucas Brizola, i'm graduating Software Engineering and currently i dedicate myself in studying Python. If you want talk to me feel free to    send me an e-mail or add me at Linkedin.</p>
+  <p>(ᴇɴɢ) Hi, my name is Lucas Brizola, i'm graduating Software Engineering and currently I dedicate myself in studying Python. If you want talk to me feel free to    send me an e-mail or add me at Linkedin.</p>
   
   <!--CONTACT LINKS-->
   <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'>
