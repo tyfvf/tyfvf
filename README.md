@@ -74,9 +74,9 @@
 
 <!--ACTIVITY GRAPH-->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=tyfvf&line=560469&bg_color=000&color=fff&point=0b8704">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=tyfvf&bg_color=fff&color=000&line=000">
-    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=tyfvf&theme=high-contrast">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tyfvf&line=560469&bg_color=000&color=fff&point=0b8704">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tyfvf&bg_color=fff&color=000&line=000">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tyfvf&theme=high-contrast">
 </picture>
 
 <!--SNAKE TEXT-->
