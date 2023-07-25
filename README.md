@@ -76,6 +76,13 @@
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tyfvf&theme=high-contrast">
 </picture>
 
+<!--3D PROFILE CONTRIB-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tyfvf/tyfvf/blob/main/profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tyfvf/tyfvf/blob/main/profile-3d-contrib/profile-green-animate.svg">
+    <img width="100%" src="https://github.com/tyfvf/tyfvf/blob/main/profile-3d-contrib/profile-night-green.svg">
+</picture>
+
 <!--SNAKE TEXT-->
 <div align="center">
   <br>
