@@ -1,6 +1,7 @@
 <!--INTRODUCTION - START-->
 <div id="user-content-toc" align="center">
   <ul>
+    <img height='100' src="https://github.com/tyfvf/tyfvf/assets/75546113/8ef10078-19e5-473c-aaa3-6ebeded6e44b">
     <summary><h1 style="display: inline-block;">Lucas Brizola (Tyfvf) 🌱</h1></summary>
   </ul>
 </div>
@@ -102,12 +103,12 @@
 
 <!--INTERESTS TEXT-->
 <p align="center">
-<img src="https://i.imgur.com/f7BoDoW.gif">
+<img src="https://i.imgur.com/f7BoDoW.gif"><br>
+
 
 <!--INTERESTS SVG-->
 <div align="center">
-  <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height='60' src="https://github.com/tyfvf/tyfvf/assets/75546113/d50a803d-ec3e-46bc-9547-b1528327cb48">
   <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height='60'  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
