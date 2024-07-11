@@ -12,7 +12,7 @@
 
 <!--TEXT-->
 <div align="center">
-  <p>Gosto de fazer jogo.</p>
+  <p>Welcome.</p>
   <!--CONTACT LINKS-->
   <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
