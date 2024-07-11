@@ -12,7 +12,7 @@
 
 <!--TEXT-->
 <div align="center">
-  <p>Welcome.</p>
+  <p>If you want talk to me feel free to send me an e-mail or add me at linkedin ↓</p>
   <!--CONTACT LINKS-->
   <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
