@@ -28,12 +28,12 @@
 <!--LINE-->
 <hr>
 
-<!--INTERESTS TEXT-->
+<!--APTITUDES TEXT-->
 <div align="center">
-  <h3>Interests</h3>
+  <h3>Aptitudes</h3>
 </div>
 
-<!--INTERESTS SVG-->
+<!--APTITUDES SVG-->
 <div align="center">
   <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img height='60' src="https://github.com/tyfvf/tyfvf/assets/75546113/d50a803d-ec3e-46bc-9547-b1528327cb48">
