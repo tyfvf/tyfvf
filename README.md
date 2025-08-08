@@ -13,7 +13,7 @@
 <!--TEXT-->
 <div align="center">
   <p>Software Enginner, currently pursuing a degree in statistics.</p>
-  <p>My interests are: computional statistics, low level systems, IA and ML.</p>
+  <p>My interests are: computional statistics, low-level systems, AI and ML.</p>
   <p>If you want talk to me feel free to send me an e-mail or add me at linkedin ↓</p>
   <!--CONTACT LINKS-->
   <a target="_blank" href='https://mail.google.com/mail/?view=cm&fs=1&to=lucas.brizola.fontoura@gmail.com&su=Hi&body=Say-Something'>
