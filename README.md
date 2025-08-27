@@ -39,7 +39,4 @@
   <img height='60' src="https://github.com/tyfvf/tyfvf/assets/75546113/d50a803d-ec3e-46bc-9547-b1528327cb48">
   <img height='60'  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <img height='60'  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />
-  <img height='60'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img height='60' src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-  <img height='60' src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
 </div>
